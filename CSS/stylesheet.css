@@ -10,7 +10,6 @@
     flex-direction: column;
     min-height: 100vh;
   }
-  
  
   header {
     display: flex;
@@ -31,7 +30,6 @@
     padding: 20px;
   }
   
-
   main {
     background-color: white;
     border: 1px solid #ccc;
@@ -41,7 +39,6 @@
     padding: 20px;
   }
   
- 
   nav ul {
     display: flex;
     list-style: none;
